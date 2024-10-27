@@ -1,0 +1,16 @@
+.\objects\usart.o: ..\BSP\usart.c
+.\objects\usart.o: ..\BSP\usart.h
+.\objects\usart.o: ..\BSP\board.h
+.\objects\usart.o: ..\CMSIS\stm32f10x.h
+.\objects\usart.o: ..\CMSIS\core_cm3.h
+.\objects\usart.o: D:\others\software\keil\core\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\usart.o: ..\CMSIS\system_stm32f10x.h
+.\objects\usart.o: ..\APP\stm32f10x_conf.h
+.\objects\usart.o: D:\others\software\keil\core\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\usart.o: ..\LIB\STM32F10x_StdPeriph_Lib_V3.5.0\inc\stm32f10x_gpio.h
+.\objects\usart.o: ..\CMSIS\stm32f10x.h
+.\objects\usart.o: ..\LIB\STM32F10x_StdPeriph_Lib_V3.5.0\inc\stm32f10x_rcc.h
+.\objects\usart.o: ..\LIB\STM32F10x_StdPeriph_Lib_V3.5.0\inc\stm32f10x_usart.h
+.\objects\usart.o: ..\LIB\STM32F10x_StdPeriph_Lib_V3.5.0\inc\misc.h
+.\objects\usart.o: ..\DRIVERS\fifo.h
+.\objects\usart.o: ..\BSP\Emm_V5.h
